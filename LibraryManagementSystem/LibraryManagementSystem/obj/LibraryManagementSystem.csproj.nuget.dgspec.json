@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumari_nishita\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "C:\\Users\\kumari_nishita\\OneDrive - Persistent Systems Limited\\Desktop\\New folder\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumari_nishita\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "C:\\Users\\kumari_nishita\\OneDrive - Persistent Systems Limited\\Desktop\\New folder\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumari_nishita\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\kumari_nishita\\OneDrive - Persistent Systems Limited\\Desktop\\New folder\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "C:\\Users\\kumari_nishita\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "C:\\Users\\kumari_nishita\\OneDrive - Persistent Systems Limited\\Desktop\\New folder\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\kumari_nishita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumari_nishita\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\kumari_nishita\\OneDrive - Persistent Systems Limited\\Desktop\\New folder\\LibraryManagementSystem\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kumari_nishita\\AppData\\Roaming\\NuGet\\NuGet.Config",
